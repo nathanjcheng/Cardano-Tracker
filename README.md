@@ -1,5 +1,7 @@
 # Cardano-Tracker
-app that displays Cardano price in USD based off of fetching information from coinapi.io 
+App that displays Cardano price in USD based off of fetching information from coinapi.io.
+Every time the user clicks the screen the label updates.
+
 
 ![IMG_1781](https://user-images.githubusercontent.com/58782527/180111677-7de8f8ff-8fc4-46a1-aeaf-c31b275a7169.jpg)
 
